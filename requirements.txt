@@ -1,0 +1,11 @@
+streamlit
+openai
+langchain
+langchain-community
+tiktoken
+youtube-transcript-api
+docx2txt
+python-docx
+PyPDF2
+whisper
+faiss-cpu
